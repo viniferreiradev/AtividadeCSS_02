@@ -1,0 +1,88 @@
+section{
+    background-color: #a7a7a7;
+    width: 450px;
+    height: 300px;
+}
+
+.index04_div01,
+.index04_div02,
+.index04_div03,
+.index04_div04,
+.index04_div05,
+.index04_div06,
+.index04_div07,
+.index04_div08,
+.index04_div09,
+.index04_div10,
+.index04_div11,
+.index04_div12{
+    background-color: #464646;
+    width: 50px;
+    height: 50px;
+}
+
+.index04_div01,
+.index04_div02,
+.index04_div03,
+.index04_div04,
+.index04_div05,
+.index04_div06,
+.index04_div07,
+.index04_div08,
+.index04_div09,
+.index04_div10,
+.index04_div11,
+.index04_div12{
+    position: absolute;
+}
+
+.index04_div02{
+    top: 61px;
+}
+
+.index04_div03{
+    top: 114px;
+}
+
+.index04_div04{
+    top: 61px;
+    left: 61px;   
+}
+
+.index04_div05{
+    left: 61px;   
+}
+
+.index04_div06{
+    left: 114px; 
+}
+
+.index04_div07{
+    top: 258px;
+    left: 408px;
+}
+
+.index04_div08{
+    top: 205px;
+    left: 408px;   
+}
+
+.index04_div09{
+    top: 152px;
+    left: 408px; 
+}
+
+.index04_div10{
+    top: 258px;
+    left: 355px;  
+}
+
+.index04_div11{
+    top: 258px;
+    left: 302px;
+}
+
+.index04_div12{
+    top: 205px;
+    left: 355px; 
+}
