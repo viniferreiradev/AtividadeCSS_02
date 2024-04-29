@@ -1,0 +1,41 @@
+section{
+    background-color: #a7a7a7;
+    width: 500px;
+    height: 300px;
+}
+
+.index02_div01{
+    position: relative;
+    width: 100px;
+    height: 100px;
+    background-color: #464646;
+    float: left;
+}
+
+.index02_div02{
+    position: relative;
+    width: 100px;
+    height: 100px;
+    background-color: #464646;
+    float: right;
+}
+
+.index02_div03{
+    position: relative;
+    width: 100px;
+    height: 100px;
+    background-color: #464646;
+    float: right;
+    clear: both;
+    top: 100px;
+}
+
+.index02_div04{
+    position: relative;
+    width: 100px;
+    height: 100px;
+    background-color: #464646;
+    float: left;
+    top: 100px;
+
+}
